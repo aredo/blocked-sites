@@ -5513,5 +5513,14 @@
         "ip": [
             "64.188.56.171"
         ]
+    },
+    {
+        "protocol": "http",
+        "domain": "www.pornktube.com",
+        "path": null,
+        "subdomain": "www",
+        "host": "pornktube",
+        "tld": "com",
+        "parent_domain": "pornktube.com"
     }
 ]
