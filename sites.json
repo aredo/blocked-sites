@@ -5522,5 +5522,32 @@
         "ip": [
             "64.188.56.171"
         ]
+    },
+    {
+        "protocol": "http",
+        "domain": "www.sexhotpictures.com",
+        "path": null,
+        "subdomain": "www",
+        "host": "sexhotpictures",
+        "tld": "com",
+        "parent_domain": "sexhotpictures.com"
+    },
+    {
+        "protocol": "http",
+        "domain": "www.bestpornpictures.com",
+        "path": null,
+        "subdomain": "www",
+        "host": "bestpornpictures",
+        "tld": "com",
+        "parent_domain": "bestpornpictures.com"
+    },
+    {
+        "protocol": "http",
+        "domain": "www.freepornpics.net",
+        "path": null,
+        "subdomain": "www",
+        "host": "freepornpics",
+        "tld": "com",
+        "parent_domain": "freepornpics.com"
     }
 ]
