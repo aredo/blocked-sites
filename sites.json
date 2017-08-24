@@ -5522,5 +5522,14 @@
         "ip": [
             "64.188.56.171"
         ]
+    },
+    {
+      "protocol": "http:",
+      "domain": "cum-in.my-ey.es",
+      "path": null,
+      "subdomain": "cum-in",
+      "host": "my-ey",
+      "tld": "es",
+      "parent_domain": "my-ey.es"
     }
 ]
